@@ -27,10 +27,10 @@ The dashboard is built on two pages to tell a clear story:
 ## Dashboard Preview
 
 **Page 1: Marketing Overview**
-*(You can add a screenshot here)*
+![Dashboard Page 1](page1.png)
 
 **Page 2: Business Impact & Efficiency**
-*(You can add a screenshot here)*
+![Dashboard Page 2](page2.png)
 
 
 ## Data Sources
