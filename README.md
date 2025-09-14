@@ -4,7 +4,7 @@ An interactive BI dashboard analyzing marketing spend and its impact on business
 
 ## Live Dashboard
 
-**You can view and interact with the live dashboard here:** [**PASTE YOUR LOOKER STUDIO LINK HERE**](https://lookerstudio.google.com/reporting/ab82a2b2-564f-4633-a5fc-013bc1e5556d)
+**You can view and interact with the live dashboard here:** [**LOOKER STUDIO LINK**](https://lookerstudio.google.com/reporting/ab82a2b2-564f-4633-a5fc-013bc1e5556d)
 
 ## Project Overview
 
